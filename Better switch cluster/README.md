@@ -7,7 +7,8 @@
     - [Wire mapping](#wire-mapping-1)
   - [HIGO connector 5pin female](#higo-connector-5pin-female)
     - [Wire mapping](#wire-mapping-2)
-  - [Final wire mapping](#final-wire-mapping)
+  - [Final result](#final-result)
+    - [Final wire mapping](#final-wire-mapping)
 
 ## Factory switch cluster
 
@@ -68,7 +69,11 @@ Wire mapping is as folows (Remember, **Nami has permanent `GND`** and switched `
 | 4 | Green |
 | 5 | Black |
 
-## Final wire mapping
+## Final result
+
+Looking at tables above, joining switch cluster and wire together requires soldering 4 `GND` lines together (Higo Headlights with Higo `GND` with Switch Cluster horn `GND` with Switch Cluster turn signals `GND`)
+
+### Final wire mapping
 
 | Pin position | Function | HIGO wire color | Switch cluster wire color |
 | --- | --- | --- | ---- |
