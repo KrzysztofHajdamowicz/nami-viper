@@ -9,6 +9,8 @@
     - [Magura MT5e vs Magura MT7](#magura-mt5e-vs-magura-mt7)
       - [Example of Nami on Magura MT5e brakes](#example-of-nami-on-magura-mt5e-brakes)
     - [Fixing brake caliper alignment](#fixing-brake-caliper-alignment)
+      - [Brobic Vriplat solution](#brobic-vriplat-solution)
+      - [XtreMaker3D.fr solution](#xtremaker3dfr-solution)
 
 ## Factory brakes
 
@@ -71,4 +73,22 @@ It is directly related to usage of factory IS-PM adapter (that black part below 
 
 ### Fixing brake caliper alignment
 
-Brobic Vriplat found a solution
+#### Brobic Vriplat solution
+
+![](brake_adapter-Shimano-SM-MA90.jpg)
+
+Use Shimano SM-MA90-F160P/S brake adapters. They move brake caliper 7mm to the down, next you need longer bolts and 10mm of bolt washers to move brake caliper diagonally up-and-right to correct position. Top of brake pad is aligned with outer diameter of brake rotor, providing maximum contact available, at a cost of aligning them with varying amount of bolt washers.
+
+![](brake_adapter-Shimano-SM-MA90_fitment.jpg)
+
+#### XtreMaker3D.fr solution
+
+![](xtremaker_brake_adapter_v1.png)
+
+CNC-cut aluminium brake adapters specifically designed to fit Magura and Hope brakes on Nami Viper. Easy to install using factory screws. 100% fit.  
+You can buy them [THERE](https://www.xtremaker3d.fr/index.php?id_product=155&id_product_attribute=1046&rewrite=support-etrier-magura-nami&controller=product#/4-couleurs-noir)
+
+![](xtremaker_brake_adapter_v1_fitment.jpg)
+
+Note: There is a new version with even better fitment, with brake pads aligned in all 3 axis.  
+You can buy them [THERE](https://www.xtremaker3d.fr/index.php?id_product=169&rewrite=support-etrier-magurahope-monobloc&controller=product)
